@@ -129,6 +129,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "https://manage-x.vercel.app"б
-    "https://peaceful-conkies-b40d86.netlify.app/"
+    "https://peaceful-conkies-b40d86.netlify.app"
     # Add any other origins as needed
 ]
